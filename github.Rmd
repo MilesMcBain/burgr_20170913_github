@@ -58,6 +58,10 @@ output:
         - Collaborate with someone else on a shared project.
         - Merge your commits and resolve conflicts.
 
+## Oh Shit Git
+    * [Help is not far away](http://ohshitgit.com/).
+    * [Gitflow](https://guides.github.com/introduction/flow/)
+
 ## My Github workflow
 
 The easy way:
